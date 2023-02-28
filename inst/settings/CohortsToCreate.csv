@@ -5,3 +5,5 @@ atlasId,cohortId,id,cohortName
 10446,10446,10446,[OHDSI PhenotypePhebruary] Definition 2 UDMI definition
 10447,10447,10447,[OHDSI PhenotypePhebruary] Definition 3 elev TROP ICU definition
 10448,10448,10448,[OHDSI PhenotypePhebruary] Definition 4 Elev TROP (+ ST elevation on ECG) definition
+142,142,142,"[P] Earliest event of ST elevated myocardial infarction (7P, 1E)"
+260,260,260,"[P] ST elevated myocardial infarction with inpatient admission (7Pe, 180Era)"
