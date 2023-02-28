@@ -1,0 +1,7 @@
+atlasId,cohortId,id,cohortName
+10444,10444,10444,[OHDSI PhenotypePhebruary] Definition 1a STEMI Dx codes
+10445,10445,10445,[OHDSI PhenotypePhebruary] Definition 1b STEMI ECG Trop Dx codes
+1781984,1781984,1781984,[OHDSI PhenotypePhebruary] Definition 1b STEMI ECG Trop Dx codes (0 to 7d)
+10446,10446,10446,[OHDSI PhenotypePhebruary] Definition 2 UDMI definition
+10447,10447,10447,[OHDSI PhenotypePhebruary] Definition 3 elev TROP ICU definition
+10448,10448,10448,[OHDSI PhenotypePhebruary] Definition 4 Elev TROP (+ ST elevation on ECG) definition
